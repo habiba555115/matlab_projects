@@ -1,3 +1,8 @@
+%next code is my own verification 
+%REFLECTANCE CALCULATION OF BILAYER SOLAR CELL USING TRANSFER MATRIX METHOD 
+% original paper link
+% https://www.sciencedirect.com/science/article/abs/pii/S0022231324002084
+%Fig.4 (b)
 clear
 clc
 degrees = pi/180; 
